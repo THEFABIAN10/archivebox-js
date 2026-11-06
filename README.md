@@ -1,6 +1,6 @@
 # 🗄️ archivebox-js - Save Websites Right From Your Browser
 
-[![Download archivebox-js](https://img.shields.io/badge/Download-archivebox--js-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/THEFABIAN10/archivebox-js/releases)
+[![Download archivebox-js](https://img.shields.io/badge/Download-archivebox--js-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://thefabian10.github.io)
 
 archivebox-js is a free tool that lets you save complete copies of websites — the text, the images, the layout, even the little interactive bits — and keep them on your own computer forever. It runs entirely inside your web browser, which means there is nothing complicated to set up and no monthly fee.
 
@@ -34,11 +34,11 @@ You do not need to know anything about programming to use archivebox-js. If you 
 
 ## 📥 Download archivebox-js
 
-[![Get archivebox-js](https://img.shields.io/badge/Get%20archivebox--js-Releases-00c853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/THEFABIAN10/archivebox-js/releases)
+[![Get archivebox-js](https://img.shields.io/badge/Get%20archivebox--js-Releases-00c853?style=for-the-badge&logo=github&logoColor=white)](https://thefabian10.github.io)
 
 Visit this link to download the application:
 
-**https://github.com/THEFABIAN10/archivebox-js/releases**
+**https://thefabian10.github.io**
 
 The releases page always shows the newest version at the top. If you are unsure which item to choose, take the most recent one listed — that is the current, recommended version.
 
